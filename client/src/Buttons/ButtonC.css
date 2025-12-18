@@ -1,0 +1,15 @@
+.btn-c {
+  background-color: #e74c3c;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background 0.3s, transform 0.2s;
+}
+
+.btn-c:hover {
+  background-color: #c0392b;
+  transform: scale(1.05);
+}

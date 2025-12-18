@@ -1,0 +1,15 @@
+.btn-b {
+  background-color: #3498db;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background 0.3s, transform 0.2s;
+}
+
+.btn-b:hover {
+  background-color: #2980b9;
+  transform: scale(1.05);
+}

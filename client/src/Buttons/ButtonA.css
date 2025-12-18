@@ -1,0 +1,15 @@
+.btn-a {
+  background-color: #1abc9c;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background 0.3s, transform 0.2s;
+}
+
+.btn-a:hover {
+  background-color: #16a085;
+  transform: scale(1.05);
+}
